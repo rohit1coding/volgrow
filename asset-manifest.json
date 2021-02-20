@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/volgrow/static/css/main.1822caf6.chunk.css",
+    "main.js": "/volgrow/static/js/main.6e7dcb51.chunk.js",
+    "main.js.map": "/volgrow/static/js/main.6e7dcb51.chunk.js.map",
+    "runtime-main.js": "/volgrow/static/js/runtime-main.f75fb0d5.js",
+    "runtime-main.js.map": "/volgrow/static/js/runtime-main.f75fb0d5.js.map",
+    "static/js/2.ed80c854.chunk.js": "/volgrow/static/js/2.ed80c854.chunk.js",
+    "static/js/2.ed80c854.chunk.js.map": "/volgrow/static/js/2.ed80c854.chunk.js.map",
+    "static/js/3.9e6cd865.chunk.js": "/volgrow/static/js/3.9e6cd865.chunk.js",
+    "static/js/3.9e6cd865.chunk.js.map": "/volgrow/static/js/3.9e6cd865.chunk.js.map",
+    "index.html": "/volgrow/index.html",
+    "static/css/main.1822caf6.chunk.css.map": "/volgrow/static/css/main.1822caf6.chunk.css.map",
+    "static/js/2.ed80c854.chunk.js.LICENSE.txt": "/volgrow/static/js/2.ed80c854.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f75fb0d5.js",
+    "static/js/2.ed80c854.chunk.js",
+    "static/css/main.1822caf6.chunk.css",
+    "static/js/main.6e7dcb51.chunk.js"
+  ]
+}
